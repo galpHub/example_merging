@@ -1,0 +1,1 @@
+Independent changes should not affect my merge
